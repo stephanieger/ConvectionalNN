@@ -32,5 +32,4 @@ ingredient_list2 = open("clean.txt", 'r')
 with open('clean2.txt', 'w') as f:
     for line in ingredient_list2.readlines():
         text = ' '.join([word for word in line.split() if word not in remove])
-        #f.write(text)
-        print(text)
+        f.write("%s\n" %text)
