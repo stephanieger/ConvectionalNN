@@ -13,7 +13,7 @@
 #    for i in List3:
 #        f.write("%s\n" %i)
 ##%%
-#import re
+import re
 #
 #ingredient_list = open("ingredients.txt", 'r')
 #
@@ -25,11 +25,29 @@
 
 #%%
 
-remove=open("remove.txt","r").read().splitlines()
-ingredient_list2 = open("clean.txt", 'r')
+#remove=open("remove.txt","r").read().splitlines()
+#with open("remove2.txt","w") as f:
+#    for i in remove:
+#        new=i.title()
+#        f.write("%s\n" %new)
 
 
-with open('clean2.txt', 'w') as f:
-    for line in ingredient_list2.readlines():
-        text = ' '.join([word for word in line.split() if word not in remove])
-        f.write("%s\n" %text)
+#%%
+##
+#remove=open("remove.txt","r").read().splitlines()
+#
+#ingredient_list2 = open("clean.txt", 'r')
+#
+#
+#with open('clean2.txt', 'w') as f:
+#    for line in ingredient_list2.readlines():
+#        text = ' '.join([word for word in line.split() if word not in remove])
+#        f.write("%s\n" %text)
+
+#%%
+clean2 = open("clean2.txt", 'r')
+#
+with open('clean3.txt', 'w') as f:
+    for line in clean2.readlines():
+        new_line = re.sub("[*]", "", line)
+        f.write(new_line)
