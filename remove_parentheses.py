@@ -8,5 +8,5 @@ ingredient_list = open(sys.argv[1], 'r')
 with open('ingredients_noparentheses.txt', 'w') as f:
     for line in ingredient_list.readlines():
         new_line = re.sub("[\{\(\[].*?[\)\]\}]", "", line)
-        new_line = re.sub("[~$&|!]", "", new_line)
+        new_line = re.sub("[~$&|!{}[]()]", "", new_line)
         f.write(new_line)
