@@ -1,7 +1,7 @@
 from __future__ import print_function
 import numpy as np
 import tensorflow as tf
-
+import keras.backend.tensorflow_backend as ktf
 import argparse
 import time
 import os
