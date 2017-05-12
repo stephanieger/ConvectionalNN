@@ -1,0 +1,68 @@
+corpus length: 22866527
+total chars: 67
+nb sequences: 7622163
+Vectorization...
+
+----- diversity: 0.2
+----- Generating with seed: "eparate bowl mix the dry ingredients tog"
+eparate bowl mix the dry ingredients tog se  saa   suo eao   r esa    s    r us oae   s  s o  a s o oo    s    so saaa sse e  oa      a r aaes a o      eaa   aa  s e    ar      o oe a s  a a  ao oe a  uol   eas s       aa  aes us e    a rea     as s o  a  or  s   l  a aa    o ea aee  e   aao  s   so es   ar   s oo o o  ae    soaoaaa   ao 
+
+----- diversity: 0.5
+----- Generating with seed: "eparate bowl mix the dry ingredients tog"
+eparate bowl mix the dry ingredients togo  re  rea  ruo  ssneoa   sar na rren  l nseis ns ues o e  aaena r  u  a  nl eaaee  s  s oio  o n se ss sse  eeaoaaa   a a  r su s   u  es un l erasou  o aa esres e  aaeoraea  ea  eaanaa reusae r e as sa   ae    e   ee l  l saanss  so    srassa snl ss   u e  neas s en r s a a  o  e asuoss  o lsea rr
+
+----- diversity: 1.0
+----- Generating with seed: "eparate bowl mix the dry ingredients tog"
+eparate bowl mix the dry ingredients togr leu elluula o nu s rariae suea rsaaslsusa olaloaanur ununolan aa oe a au o  s eenloli rar  snaaa aor ro   oslsa ea ar  o aaeo en  uesunr ule onroelaoeoei   ooolse ue ao  oouoiraa eleoaloesuas assaa s ese  s  anar olursoriai eearse  n olllil aioooierno rose ers as rsoai snn soeses u sl s sl ieaanse
+
+----- diversity: 1.2
+----- Generating with seed: "eparate bowl mix the dry ingredients tog"
+eparate bowl mix the dry ingredients togn enlul insra earrsnssi e nasero suoor na ulinsrs es oelaeon sl   esaes u a ureess iroe ouns ruesa oarne  a li arnnaranne  rrnnnl  ueas sao olorleeeanenaiusuen ei rnsaaronaesale u nssloo l ain  n ersssuruassosnn   ueris oleaunaleaneauln aorsonsulue u inolneo esue als sanar o saneans  ooos ua sralanl
+
+----- diversity: 0.2
+----- Generating with seed: " sugar,pince of salt,juice and zest of o"
+ sugar,pince of salt,juice and zest of o   ao oo r s  aes sso    aa leaa   o   oe  s s    r    as s a   a  e    a  eaa a   a a        e   o    a  ease  lar    aa ee    a as  ae  a l se  a  sa     a  s s a  a os    on    oa  s  o ea eo  a   lasso    n a  l   aau    aaa   saa ea      e  a  s loa  a    er a   a ou   osan a      o a e a  a   
+
+----- diversity: 0.5
+----- Generating with seed: " sugar,pince of salt,juice and zest of o"
+ sugar,pince of salt,juice and zest of ooso ao n    ae on lo  oa   ao asl o  o lsa       laooas o  e  aao o  er aea oes aanraouear  ns ls  asooe  aa n ra aaaoooe e e rsrn sa a ou ass a as   so  eeas n  oaslaaa as  a a a eeaos   aosan ra  us aosaa eal  e      u  us   u e  suoae ll    s aaar os oa  e sa   s  e   su a o ssooa a o    e neeass
+
+----- diversity: 1.0
+----- Generating with seed: " sugar,pince of salt,juice and zest of o"
+ sugar,pince of salt,juice and zest of on in sro  se eo  uu ou rulnsur  uoeoaa  sasrarr  nnuoruolaoae lna   snaioaae  aaas  ol  osleiaeraa las r sr luaraleor lunareeraaroenuaaasaorol iaol aoeaera  ees ua  eansaaalsaralsi aae rel   e aaanr iea sllsusr io  sn ale aes oreree iseuoaoa aslaroaunr ree eole ier a oounssi a ssa son il leseolsione
+
+----- diversity: 1.2
+----- Generating with seed: " sugar,pince of salt,juice and zest of o"
+ sugar,pince of salt,juice and zest of oeean  u losalsaeanl  irlo aia o senlurr re s ianinei uaio srus o lrello ssro llarr o leral as eaesuuouusssr rsneoiaouusas io s saooe  nonossa il seol r eolrelssnlern ee ni o oaaese s ros  nasaols raalrane usnio i s n rns anioolari e l a oul nauislasal ruaoao aerloa oa se lneoree sl  uaneno lereesoo 
+
+----- diversity: 0.2
+----- Generating with seed: "illa extract,1 cup all-purpose flour,1/8"
+illa extract,1 cup all-purpose flour,1/8ees as a s aae     s     a ro  es aa ea  er  a o e   e a o  oo  l s s a u    s  alaoea  r    es  s s a   on s        oa  aa s ee  ea   s ra a so       o aaara o as aer  aaan   aa  oa a oas   oaaaa  ea s   sas  a   a  eea  sas    a  ana a an eran s  o a  e asa      o  as a   s   a  s  u  useal e     
+
+----- diversity: 0.5
+----- Generating with seed: "illa extract,1 cup all-purpose flour,1/8"
+illa extract,1 cup all-purpose flour,1/8 eieaanear aa  uesone  s     eaea  eno  uusui eeass sa slar els os ee ss  r a    s a  suues  saans  es   rs ae on aseona a    nus nl sanaurs  aooa  ea rora uee sla  raus     s s eus ase aaare   s  soen   aese      u s e oo sio seno  sa  on na  aaea  o  a  s a oa an e oare e esooaa   uoaen a aae    a
+
+----- diversity: 1.0
+----- Generating with seed: "illa extract,1 cup all-purpose flour,1/8"
+illa extract,1 cup all-purpose flour,1/8u  e a  salnre ul reen  eoasnaonialrrsasra ooe lanoannu lss el oenl  na arraeo ei ls ss    uroia eonnonan aauo erre oesnn  es o oe  ie l   laerelaae see eoeaslnaa o  aoeriuarn n sserosria aola  su o  uarnrac o laaooo ue sueesae  eaola arnau  a eoonals  n iiraa a ers rse ei arsseaooaluneueen a iaaoso
+
+----- diversity: 1.2
+----- Generating with seed: "illa extract,1 cup all-purpose flour,1/8"
+illa extract,1 cup all-purpose flour,1/8 nuosnleo  n  souureurii  us l reusaser   saa rail  arorusr o  a2nlun aeneeuu sse essasso oa s  n  ssslelsie aearnnnaa esass ael alrla i iosu  asi leosasenna ulreioea  n ee olra lus rneoulssar es lusro e  urruerorae ll oaaeaaoesranerlea all  r s e  osni ur  rinna snia elssee eueosainnasas larue er a
+
+----- diversity: 0.2
+----- Generating with seed: "poons  unsalted butter, melted,3 tablesp"
+poons  unsalted butter, melted,3 tablesp e ra a  s s  ss eea       l    a ss     so a e sa  s  ssaaea       ae     oo  es   o    a  aa   ao o oo     ao s an      sor e ussa   as a o s    s  o  a s  aas   aaa n eraaa  ue o  se   e  a   a  a  ee ra   na   se    sa a   ea a  o e  ea  aes  assn e eo n s a   ue   aaa  a      soaoa    sae   a a
+
+----- diversity: 0.5
+----- Generating with seed: "poons  unsalted butter, melted,3 tablesp"
+poons  unsalted butter, melted,3 tablesps ae esoer  esl aooa sras s sssoarreessa l   o o  so  s eaosarr aseelcss   ss rnaeane   re r s es neae u ea  o  oa  oo  s  oas ea  su a rsoaanea ssseo eel aaaea s ass sa    ua lae  s n ls rler s la noo e aeaaoa   loo     ie oeoeasnaeaa as  aese  a     l a    eaaeoius nun   sai oe  aale s a oaoo oola
+
+----- diversity: 1.0
+----- Generating with seed: "poons  unsalted butter, melted,3 tablesp"
+poons  unsalted butter, melted,3 tablespalani ena oeasu nre ssaau aa se u aa  roruiaesalauon neoe oeunos so s ar na na su  aauuareresao eu ae nonusasu n  sr lr  aeo ren  rna      aaneoee aenaa    sonrueo   i sor ssene aroi uanlairerrn a la lsnseroroanr lni u r oi ale ana  esne salea aanoras  el seeueee ar eu ars  aaeelaso saseaea se usaen
+
+----- diversity: 1.2
+----- Generating with seed: "poons  unsalted butter, melted,3 tablesp"
+poons  unsalted butter, melted,3 tablesp o  e orisurer asarnu nlauiearauiolooulurseassona  oasuueaae eaes sssi r rnelaseanrlar l ss slouoeousrron r  aaea   sse s o aaaoo elonleroora ss arolaoras oo nsaeeaseurro slresoouleu so oiana r  l osnl ianoseoslu a nnueosorlaere son  lnrnnau enerassainiraois slrn ooeri leise eouru  a  oeooa u iarn s
