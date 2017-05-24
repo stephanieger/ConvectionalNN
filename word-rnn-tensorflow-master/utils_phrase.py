@@ -71,9 +71,9 @@ class TextLoader():
         #data = self.clean_str(data)
         tmp = data.split('\n')
         x_text = []
-        for i in range(len(tmp)):
-            tmp = tmp.split('\t')[1]
-            x_text += tmp[i].split(',')
+        for i in range(len(tmp)-1):
+            temp = tmp[i].split('\t')[1]
+            x_text += temp.split(',')
 
         self.vocab, self.words = self.build_vocab(x_text)
         self.vocab_size = len(self.words)
