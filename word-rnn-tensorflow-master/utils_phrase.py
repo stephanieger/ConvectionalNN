@@ -72,7 +72,10 @@ class TextLoader():
         tmp = data.split('\n')
         x_text = []
         for i in range(len(tmp)-1):
-            temp = tmp[i].split('\t')[1]
+            if tmp[i].find('\t') != -1:
+                temp = tmp[i].split('\t')[1]
+            else:
+                temp = tmp[i]
             x_text += temp.split(',')
 
         self.vocab, self.words = self.build_vocab(x_text)

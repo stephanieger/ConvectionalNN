@@ -69,7 +69,11 @@ class TextLoader():
         tmp = data.split('\n')
         x_text = []
         for i in range(len(tmp)-1):
-            temp = tmp[i].split('\t')[1]
+            if tmp[i].find('\t') != -1:
+                temp = tmp[i].split('\t')[1]
+            else:
+                temp = tmp[i]
+
             temp = re.split(' |,', temp)
             x_text += filter(None, temp)
 
